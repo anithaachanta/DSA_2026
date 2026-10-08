@@ -1,0 +1,7 @@
+class Node:
+    def __init__(self,data):
+        self.data=data
+        self.next=None
+n1=Node(10)
+n2=Node(20)
+n3=
